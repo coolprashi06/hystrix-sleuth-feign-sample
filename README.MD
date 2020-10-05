@@ -1,4 +1,10 @@
+### **Project demonstrating following features:**
 
+1. Circuit breaker pattern using Hystrix.
+
+2. Calling external REST services using FeignClient.
+
+3. Logging Trace ID in service logs using Sleuth.
 
 ### **References:**
 
